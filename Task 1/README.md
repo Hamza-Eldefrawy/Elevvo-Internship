@@ -3,7 +3,7 @@
 ##  Objective
 Create an interactive dashboard from retail sales data to analyze revenue, profit, and customer segments.
 
-## 🛠 Steps
+##  Steps
 1. Cleaned and reformatted the dataset (dates, data types).
 2. Created Pivot Tables for sales by category, region, customer segment.
 3. Built a dashboard with charts and slicers.
